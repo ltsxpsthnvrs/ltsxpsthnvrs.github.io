@@ -2,6 +2,6 @@
 
 A repository for philosophical, religious, and scientific research and development intersecting time, space, light and God.
 
-  [Papers](papers)
+[Papers](papers)
 
-
+1. [The Mystery of Larson’s Cross](papers/the_mystery_of_larsons_cross_20231114.pdf)
