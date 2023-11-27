@@ -1,6 +1,6 @@
 # Let’s Expose the Universe
 
-A repository for philosophical, religious, and scientific research and development intersecting time, space, light and God.
+A repository for philosophical, religious, and scientific research, development, and human consciousness intersecting time, space, light, one, spirit, and God.
 
 [Papers](papers)
 
